@@ -113,6 +113,9 @@ rogerio.oliveira@mackenzie.br
 
 > [Lab Revisão Métricas de Classificação, Knn e Logística](https://colab.research.google.com/github/Rogerio-mack/IA_2023S2/blob/main/IA_revisao_Metricas_ex.ipynb) (*Solução no Moodle*) 
 
+<br>
+
+> [**Gabarito N2**](https://colab.research.google.com/github/Rogerio-mack/IA_2023S2/blob/main/IA_N2_2023S2_solucao.ipynb)
 
 ---
 
